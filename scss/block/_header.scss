@@ -1,0 +1,40 @@
+
+.header-section {
+    margin: 45px 0;
+}
+
+.site-logo-img {
+    width: 236px;
+    height: 26px;
+}
+
+.logo-with-nav {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.header-list {
+    display: flex;
+}
+
+.header-item {
+    margin-left: 33px;
+
+}
+
+.header-link {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888F;
+}
+
+.header-link:hover{
+    color: black;
+}
+
